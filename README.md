@@ -1,4 +1,4 @@
 # SMIL-SVG
 APRESENTAÇÃO UTILIZANDO SMIL PARA SICRONIZAÇÃO
 
-LINK DA APRESENTACAO: ps://tonicjunior.github.io/SMIL-SVG/
+LINK DA APRESENTACAO: https://tonicjunior.github.io/SMIL-SVG/. 
